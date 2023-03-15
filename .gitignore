@@ -11,3 +11,4 @@ gitit-users
 github.conf
 /.stack-work/
 /static/
+/result*
